@@ -22,7 +22,7 @@
 Link to deployed app
 
 ## Login
-Users will be prompted to register as a Farmer, Buyer, or Driver and then create a user profile containing a username and password which they will use to login.
+Users will be prompted to register as a Farmer or Buyer and create a user profile containing a username and password which they will use to login. Farmers can upload their products to the site with a photo URL and buyers can search the site and add items they see to their cart and purchase them. 
 
 ## Implementation
 Description of overall project structure
