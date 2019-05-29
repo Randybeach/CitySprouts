@@ -1,8 +1,7 @@
-### Midterm Full-stack project
+### Full-stack project
 
 
 ## City Sprouts
-  Mid-term Team Project for Skill Distillery
 
   Team members and roles:
 
@@ -65,7 +64,4 @@ Description of overall project structure
   Multiple roles for one user.
 
 
-Resources
-https://www.makeareadme.com
 
-https://www.Google.com
