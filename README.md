@@ -19,7 +19,7 @@
 
 
 
-Link to deployed app
+[CitySprouts deployed](http://3.14.21.223:8080/CitySprouts/)
 
 ## Login
 Users will be prompted to register as a Farmer or Buyer and create a user profile containing a username and password which they will use to login. Farmers can upload their products to the site with a photo URL and buyers can search the site and add items they see to their cart and purchase them. 
