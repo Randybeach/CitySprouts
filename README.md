@@ -15,7 +15,7 @@
 
 ## Description
 
-  Farmers will be able add any harvested items from their farms directly onto the application. Farmers will then be notified when their items have been purchased and the delivery details will be sent to the driver for delivery. Buyers will be able to keep track of their purchases and be able to choose if they want to buy from the farmer again by going directly to that Farmers available products. Buyers can search through all items description, name, and category, and directly add that item to their cart from the search results.
+  Farmers will be able add any harvested items from their farms directly onto the application. Farmers will then be notified when their items have been purchased. Buyers will be able to keep track of their purchases and be able to choose if they want to buy from the farmer again by going directly to that Farmers available products. Buyers can search through all items description, name, and category, and directly add that item to their cart from the search results.
 
 
 
